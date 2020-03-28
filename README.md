@@ -2,7 +2,7 @@
 
 cocos creator 版的 countUp.js, 数字 label 缓动效果组件
 
-![inspector](https://github.com/R4M80MrX/cocos-creator-countUp/images/inspector.png)
+![inspector](https://raw.githubusercontent.com/R4M80MrX/cocos-creator-countUp/master/images/inspector.png)
 
 ```typescript
 import CountUp from "../Libs/countUp/countUp";
