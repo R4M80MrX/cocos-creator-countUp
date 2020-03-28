@@ -1,6 +1,7 @@
 # cocos-creator-countUp
 
 cocos creator 版的 countUp.js, 数字 label 缓动效果组件
+参数说明详见 [countUp.js](https://github.com/inorganik/countUp.js)
 
 ![inspector](https://raw.githubusercontent.com/R4M80MrX/cocos-creator-countUp/master/images/inspector.png)
 
